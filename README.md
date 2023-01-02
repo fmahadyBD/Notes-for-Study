@@ -1,4 +1,4 @@
-# Notes-for-Study<br>
+# Notes-for-Study<br><hr>
 
 The Java Topic:
 
